@@ -1,0 +1,103 @@
+{
+  "const.test": {
+    "sounds": [
+      {
+        "name": "const:test/test1"
+      },
+      {
+        "name": "const:test/test2"
+      }
+    ],
+    "subtitle": "subtitles.const.test"
+  },
+  "block.celingtile.break": {
+    "sounds": [
+      "dig/celingtile1",
+      "dig/celingtile2",
+      "dig/celingtile3",
+      "dig/celingtile4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.celingtile.fall": {
+    "sounds": [
+      "step/celingtile1",
+      "step/celingtile2",
+      "step/celingtile3",
+      "step/celingtile4"
+    ]
+  },
+  "block.celingtile.hit": {
+    "sounds": [
+      "step/celingtile1",
+      "step/celingtile2",
+      "step/celingtile3",
+      "step/celingtile4"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.celingtile.place": {
+    "sounds": [
+      "dig/celingtile1",
+      "dig/celingtile2",
+      "dig/celingtile3",
+      "dig/celingtile4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.celingtile.step": {
+    "sounds": [
+      "step/celingtile1",
+      "step/celingtile2",
+      "step/celingtile3",
+      "step/celingtile4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+
+  "__comment": "exsample blocks",
+  "block.cloth.break": {
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.cloth.fall": {
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.cloth.hit": {
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.cloth.place": {
+    "sounds": [
+      "dig/cloth1",
+      "dig/cloth2",
+      "dig/cloth3",
+      "dig/cloth4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.cloth.step": {
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  }
+}

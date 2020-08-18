@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[33,)"
+license="Legopitstop Common License"
+issueTrackerURL="https://github.com/legopitstop/Construction-Blocks-1.16.1/issues"
+
+[[mods]]
+modId="const"
+version="1.0.1-pre1"
+displayName="Construction Blocks"
+updateJSONURL="https://github.com/legopitstop/ModUpdates/raw/master/Construction%20Blocks/update.json"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/construction-blocks"
+logoFile="pack.png"
+credits=""
+authors="Legopitstop"
+description='''
+Adds Lots new blocks, items, and tools!
+'''
+
+[[dependencies.const]]
+    modId="forge"
+    mandatory=true
+    versionRange="[33,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.const]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.2]"
+    ordering="NONE"
+    side="BOTH"
